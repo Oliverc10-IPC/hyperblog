@@ -3,7 +3,7 @@
 
 body {
     text-align: center;
-    font-family: "Arial";
+    font-family: "Times New Roman";
     color: rgba(70, 69, 70, 0.995);
     font-size: 10px;
     margin: 0;
@@ -39,8 +39,8 @@ body {
 
 #post p
 {
-    background-color: rgb(127, 127, 167);
-    color: white;
+    background-color: rgb(7, 7, 148);
+    color: rgb(223, 234, 14);
     font-weight: bold;
     margin: 0;
     padding: 0.5cm;
