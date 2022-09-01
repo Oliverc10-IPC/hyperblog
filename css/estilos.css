@@ -37,6 +37,16 @@ body {
     margin: 0 auto;
 }
 
+#post p
+{
+    background-color: rgb(127, 127, 167);
+    color: white;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5cm;
+    
+}
+
 #container h1 {
     font-size: 20px;
 
