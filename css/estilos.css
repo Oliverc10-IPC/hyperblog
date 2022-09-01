@@ -1,13 +1,6 @@
-<<<<<<< HEAD
-body
-{
-text-align: center;
-font-family: "Courier";
-color: rgba(70, 69, 70, 0.995);
-font-size: 10px;
-margin: 0;
-padding: 0;
-=======
+
+
+
 body {
     text-align: center;
     font-family: "Arial";
@@ -15,7 +8,7 @@ body {
     font-size: 10px;
     margin: 0;
     padding: 0;
->>>>>>> cabecera
+
 }
 
 #cabecera {
