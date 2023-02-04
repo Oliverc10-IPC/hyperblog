@@ -1,0 +1,5 @@
+este es un documento de prueba 
+para probar si funcionan estas funciones ademas de
+las versiones de prueba de git y git kraken
+
+ademas de eso poder ver las funciones de leer del archivo.
